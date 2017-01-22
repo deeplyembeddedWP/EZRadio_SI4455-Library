@@ -1,5 +1,5 @@
 /************************************************************************************ 
-  This is a library for using the EZRadio SI4455 Wireless Tranciever Chip with
+  This is a library for using the EZRadio SI4455 Wireless Transciever Chip with
   NodeMCU. The library enables users to initialize and configure the Radio Chip to
   either transmit or recieve data. For more details, please do refer the EZRadio 
   SI4455 Application Guide by Silicon Labs. The following library was ported from the
