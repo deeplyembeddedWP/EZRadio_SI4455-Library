@@ -1,0 +1,40 @@
+#######################################
+# Syntax Coloring Map For EZRadio_SI4455-Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+EZRadio_Si4455	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+Wait_POR	KEYWORD2
+SpiWriteBytes	KEYWORD2
+SpiReadBytes	KEYWORD2
+
+GetResponse_CTS	KEYWORD2
+PollCTS	KEYWORD2
+SendCmdArgs	KEYWORD2
+WriteEZConfigArray	KEYWORD2
+SendCmds	KEYWORD2
+SendCmdGetResp	KEYWORD2
+GetIntStatus	KEYWORD2
+Si4455_Configure	KEYWORD2
+Radio_PowerUp	KEYWORD2
+Si4455_HWInitialize	KEYWORD2
+StartRX	KEYWORD2
+Radio_StartRx	KEYWORD2
+StartTX	KEYWORD2
+StartTx	KEYWORD2
+SPI_SI4455_Init	KEYWORD2
+SPI_Init	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+#	LITERAL1
