@@ -20,7 +20,7 @@
 		HMOSI			     SDI
        		HCS			     NSEL
 		GPIO 4			     SDN
-		GND			     	 GND			    
+		GND			     GND			    
 
   
   Written by Vinay Divakar, January 22nd 2017  
