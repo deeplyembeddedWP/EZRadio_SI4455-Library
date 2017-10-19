@@ -18,6 +18,6 @@ Below is connections between the NodeMCU and EZRadio SI4455
 		HSCLK			     SCLK
 		HMISO			     SDO
 		HMOSI			     SDI
-                HCS			     NSEL
+		HCS			     NSEL
 		GPIO4			     SDN
 		GND			     GND			    
